@@ -1,4 +1,4 @@
-package de.tud.mathematica2latex;
+package eu.chaoticneutral.mathematica2latex;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
